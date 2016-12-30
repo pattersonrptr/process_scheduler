@@ -1,13 +1,6 @@
 /**
  * SIMULADOR DE ESCALONAMENTO DE PROCESSOS.
- * 
- * GRUPO:
- * 
- * Alexandre Prata	CA: 14044676
- * Eric Satoshi		CA: 14057123
- * Marcelo			CA: 14061333
- * Patterson		CA: 14055899
- * 
+
  */
 
 import java.awt.EventQueue;
